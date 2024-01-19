@@ -1,7 +1,8 @@
 # toib_lab4
 
 1. Создание ключевой пары GPG
-2. ![изображение](https://github.com/ClearKillah/toib_lab4/assets/64082447/60f47edd-1ef6-4dfa-b7ec-564ef806d938)
+![изображение](https://github.com/ClearKillah/toib_lab4/assets/64082447/5abb428d-91e0-478e-8506-cdff7b01601b)
+
 
 Просмотр созданных ключей, подписей, отпечатков
 ![изображение](https://github.com/ClearKillah/toib_lab4/assets/64082447/b9afa7e5-addd-4ae5-8dec-70362e829aee)
